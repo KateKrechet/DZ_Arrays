@@ -1,0 +1,20 @@
+button{
+    width: 200px;
+    height: 80px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: Calibri;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: lightslategrey;
+    color: white;
+}
+h2{
+    color: navy;
+}
+input{
+    width: 180px;
+    height: 30px;
+    padding: 10px 10px;
+}
